@@ -1,22 +1,19 @@
 # Personal Developer Portfolio
 
-A clean, responsive personal portfolio website built to showcase my projects, technical skills, and hands-on experience in Front-End development and Cybersecurity.
+A responsive personal portfolio presenting Yasser Mohammed Elmongy’s background, technical skills, selected projects, and contact information, with a focus on front-end development and cybersecurity.
 
-## Live Demo
-🔗 **[View Live Portfolio](https://yasserelmongy97-yme.github.io/portfolio/)**
+## Highlights
 
-## Key Features
-- **Responsive Design:** Adapts cleanly across desktop, tablet, and mobile screens.
-- **Skills Overview:** Highlights technical proficiency across Front-End, Backend/Databases, and Networking & Security.
-- **Projects Showcase:** Direct links to live demos and source repositories.
-- **Contact Section:** Easy ways to connect via LinkedIn, GitHub, and email.
+- Responsive single-page design for desktop and mobile.
+- Sections for profile, skills, selected projects, and contact details.
+- Direct links to project demos, source code, and professional profiles.
 
-## Built With
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- Hosted on **GitHub Pages**
+## Technology
 
-## Connect With Me
+Built as a lightweight static website using HTML5, CSS3, and JavaScript, and published with GitHub Pages.
+
+## Links
+
+- **Live portfolio:** [Visit the website](https://yasserelmongy97-yme.github.io/portfolio/)
+- **GitHub:** [YasserElmongy97-YME](https://github.com/YasserElmongy97-YME)
 - **LinkedIn:** [Yasser Mohammed Elmongy](https://www.linkedin.com/in/yasserelmongy)
-- **GitHub:** [@YasserElmongy97-YME](https://github.com/YasserElmongy97-YME)
