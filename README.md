@@ -1,22 +1,20 @@
-# Personal Developer Portfolio
+# Portfolio Builder | Yasser Elmongy
 
-A clean, responsive personal portfolio website built to showcase my projects, technical skills, and hands-on experience in Front-End development and Cybersecurity.
+A public portfolio-building app to create, customize, preview, import, and export a personal portfolio.
 
-## Live Demo
-🔗 **[View Live Portfolio](https://yasserelmongy97-yme.github.io/portfolio/)**
+Live site: https://yasserelmongy97-yme.github.io/portfolio/
 
-## Key Features
-- **Responsive Design:** Adapts cleanly across desktop, tablet, and mobile screens.
-- **Skills Overview:** Highlights technical proficiency across Front-End, Backend/Databases, and Networking & Security.
-- **Projects Showcase:** Direct links to live demos and source repositories.
-- **Contact Section:** Easy ways to connect via LinkedIn, GitHub, and email.
+## Run locally
 
-## Built With
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- Hosted on **GitHub Pages**
+```bash
+npm ci
+npm run dev
+```
 
-## Connect With Me
-- **LinkedIn:** [Yasser Mohammed Elmongy](https://www.linkedin.com/in/yasserelmongy)
-- **GitHub:** [@YasserElmongy97-YME](https://github.com/YasserElmongy97-YME)
+## Production build
+
+```bash
+npm run build
+```
+
+The site is published from the `main` branch using the existing GitHub Pages URL. Its app source is in `src/`, and the root `index.html` and `assets/` are the published build output.
